@@ -23,6 +23,7 @@ A collection of simple programs in **Python**, **Java**, and **JavaScript**.
 ```python
 num = 10
 print(num)
+```
 
 ```c
 #include<stdio.h>
@@ -30,3 +31,4 @@ void main()
 {
 printf("hello world");
 }
+```
